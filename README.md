@@ -26,7 +26,7 @@
 ```
 pip3 install -r requirements.txt
 
-git clone https://github.com/kanishksh4rma/Coronavirus_Detection_using_Chest_X_ray.git
+git clone https://github.com/mona2401/Coronavirus_Detection_using_Chest_X_ray.git
 ```
 
 ---
