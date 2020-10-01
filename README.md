@@ -47,9 +47,6 @@ git clone https://github.com/mona2401/Coronavirus_Detection_using_Chest_X_ray.gi
 
 > * Convolutional Neural Networks (CNN) in Deep Learning 
 
----
-
-
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/kanishksh4rma/Coronavirus_Detection_using_Chest_X_ray)
 
 For the Dataset Click Here 
